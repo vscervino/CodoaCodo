@@ -1,0 +1,97 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+
+}
+
+h3 {
+    text-align: center;
+    font-size: 30px;
+}
+
+header {
+    background-color: rgb(8, 49, 8);
+    color: goldenrod;
+    font-size: 20px;
+}
+
+main {
+    background-color: rgb(81, 126, 81);
+    padding: 5px;
+}
+
+
+body {
+    font-family: 'Satisfy', cursive;
+    margin: 0%;
+}
+
+.p1 {
+    color: black;
+    border: black, 5px, yellow;
+}
+
+.nav {
+    background-color: rgb(81, 126, 81);
+    color: goldenrod;
+    text-decoration: none;
+    text-align: justify;
+    padding: 3px;
+    border-radius: 3px;
+}
+
+
+footer{
+    text-align: center;
+    font-size: 20px;
+
+}
+.discografia{
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+div img {
+    width: 400px;
+    height: 400px;
+    background: rgb(160, 209, 160);
+    border: solid black;
+}
+
+
+.spotify {
+    font-size: 30px;
+    color: black;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.discografia{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+div img {
+    width: 500px;
+    height: 500px;
+    background: rgb(160, 209, 160);
+    border: solid black;
+}
+
+.spotify {
+    font-size: 20px;
+    color: black;
+}
+
+.container {
+text-align:center; 
+background-size: 100% 100%; 
+background-repeat: no-repeat; 
+   }
